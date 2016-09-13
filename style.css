@@ -1,0 +1,4 @@
+body {outline : 1px solid red; max-width: 250px}
+.todo-list {padding: 10px}
+#total {text-align: right; padding-right: 40px}
+#clear {text-align: center}
